@@ -1,2 +1,2 @@
 # Devops
-from start to end entire devops journey 
+from beginner to master entire devops journey 
