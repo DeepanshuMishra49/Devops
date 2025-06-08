@@ -1,4 +1,0 @@
-## 🔧 BASIC LINUX COMMANDS
-
-
-
