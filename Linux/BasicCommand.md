@@ -1,10 +1,10 @@
 # BASIC LINUX COMMANDS
 
- ls 
+ ls :- used to list all the files and directory present in the folder
  
- cd
+ cd :- used to go inside the directory 
  
- mkdir
+ mkdir :- used to make directory 
  
  pwd
  
